@@ -26,7 +26,7 @@
 	
 3. Install *local* node packages.
 	```shell
-	npm install --save-dev gulp gulp-typescript
+	npm install karma-jasmine karma-phantomjs-launcher --save-dev
 	```
 	- Creates package folders inside a `node_modules` folder.
 	- Writes dev dependencies to the packages.json file.
