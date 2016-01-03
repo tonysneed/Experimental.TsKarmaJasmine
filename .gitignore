@@ -1,0 +1,22 @@
+# Output and tooling folders
+###################
+build
+dist
+packages
+typings
+.tmp
+
+# OSX system folders
+###################
+.DS_Store
+
+# Node, Bower, JSPM
+###################
+node_modules
+bower_components
+jspm_packages
+
+# Test reporters
+###################
+**/test/coverage
+report
